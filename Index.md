@@ -16,6 +16,7 @@ evidence-backed notes are added.Cloud specific stuff will mainly refer to AWS, t
 | Topic | Path | Insights |
 | --- | --- | --- |
 | Cloud-NICs | `cloud-nics` | Insights on offload features and performance insights for NICs in the Public Cloud |
+| OS boot | [os-boot](os-boot/Index.md) | Boot and handover mechanisms for kernels and unikernels, e.g. what state kexec leaves for a non-Linux successor on arm64 |
 
 ## Repository map
 
